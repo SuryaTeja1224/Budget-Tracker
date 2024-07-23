@@ -1,0 +1,21 @@
+{
+    "initial_budget": 10000.0,
+    "expenses": [
+        {
+            "description": "Petrol",
+            "amount": 1200.0
+        },
+        {
+            "description": "Shopping",
+            "amount": 2000.0
+        },
+        {
+            "description": "Dinner",
+            "amount": 500.0
+        },
+        {
+            "description": "Dessert",
+            "amount": 300.0
+        }
+    ]
+}
